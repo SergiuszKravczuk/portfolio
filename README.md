@@ -9,3 +9,48 @@ My commitment to precision extends beyond testing activities. I approach my work
 ## My experience
 As a full-stack developer at Animalo Sp.Z.O.O, I have the privilege of handling various responsibilities related to the online shop. In this small company setting, I am the go-to person for everything, which gives me the opportunity to showcase my versatility and adaptability. My duties encompass testing the online shop, ensuring its functionality and usability, as well as developing new features and debugging any issues that arise. I am passionate about delivering high-quality work and pay meticulous attention to detail in order to provide an exceptional user experience. Working in a small company has allowed me to gain a holistic understanding of the entire development process, from testing to deployment. This experience has sharpened my problem-solving skills and enhanced my ability to collaborate effectively with cross-functional teams. I am committed to continuous learning and improvement, constantly seeking out new challenges and opportunities to further develop my skills as a software tester. 
 ***
+## Certificates
+[ISTQB Foundation Level](https://drive.google.com/file/d/1P5vdkSoptB0E2bX3YiTSa_cL2Y0t1OAo/view?usp=drive_link)
+***
+## Courses 
+- Zostań QA lub testerem oprogramowania od zera
+- Podstawy manualnego testowania oprogramowania
+- Postman Beginner's Course - API Testing
+- Introduction to API Testing
+- API Testing | Postman | Environment Setup & Types of HTTP Requests
+- API Testing | Postman | How To Create Own API's | JSON (Java Script Object Notation)
+- Software Testing Full Course In 10 Hours | Software Testing Tutorial | Edureka
+- QA Manual Testing Full Course for Beginners
+***
+## Books
+- Certyfikowany tester ISTQB. (*Roman Adam , Stapp Lucjan*)
+- The Art of Software Testing, 3rd Edition (*Glenford J. Myers, Corey Sandler, Tom Badgett.*)
+***
+## My example test scenarios
+[Search bar testing animao.pl](https://drive.google.com/file/d/1psJFFr8egmQj_KdB3tgmzV0WR00bCSSX/view?usp=drive_link)
+***
+## My skils and tools
+- Manual testing
+- Test planning
+- Defect management
+- Defect tracking
+- Software Testing Life Cycle (STLC)
+- Jira
+- Postmann
+- Cypress
+- SQL
+- Test Arena
+- Test Link
+- Microsoft Exel
+- Rest Api
+- HTML
+- CSS
+- SASS
+- Tailwind
+- Java Script
+- Type Script
+- React
+- Next
+***
+## My resume
+[My resume](https://drive.google.com/file/d/1jqtUPrsi_Ty84WGWxZeHxjWCpzEI-bZh/view?usp=drive_link)
