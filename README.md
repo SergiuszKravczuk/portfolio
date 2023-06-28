@@ -53,4 +53,4 @@ As a full-stack developer at Animalo Sp.Z.O.O, I have the privilege of handling 
 - Next
 ***
 ## My resume
-[My resume](https://drive.google.com/file/d/1jqtUPrsi_Ty84WGWxZeHxjWCpzEI-bZh/view?usp=drive_link)
+[My resume](https://drive.google.com/file/d/1qIZ6CN1hmQ45qCeiMIcObBqFuV7lkCKx/view?usp=drive_link)
